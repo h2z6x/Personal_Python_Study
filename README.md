@@ -1,2 +1,1 @@
-# Python_Study
-Personal Python Study
+# Personal_Python_Study
