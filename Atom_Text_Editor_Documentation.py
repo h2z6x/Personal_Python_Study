@@ -7,4 +7,6 @@ Settings, instal:
     indent guide, python autopep8,
 you can also right click on the file name to split the screen
 """
+# Ctrl + Shift + B
+# Jupyter Notebook Package
 print("All done. You are a genius")
