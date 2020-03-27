@@ -1,6 +1,7 @@
-x=(1,2,3,6) #tuple
-y=[4,52,34,4] #list
-y.append(3.3) # y is a list, when using method, you dont have to reassign value to y
+x=(1,2,3,6) # tuple
+y=[4,52,34,4] # list
+y.append(3.3) 
+# y is a list, when using method, dont have to reassign value to y
 
 i=0
 while i!=len(y):
